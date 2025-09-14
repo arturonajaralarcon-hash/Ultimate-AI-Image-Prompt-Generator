@@ -1,0 +1,24 @@
+{
+  "prompt": {
+    "main_subject": "",
+    "action": "",
+    "environment": "",
+    "mood": "",
+    "art_style": [],
+    "camera_settings": {"shot_type": "", "lens": "", "depth_of_field": ""},
+    "lighting": {"type": [], "direction": "", "intensity": ""},
+    "colors": {"palette": [], "dominant_colors": []},
+    "texture_materials": [],
+    "additional_details": [],
+    "negatives": []
+  },
+  "parameters": {
+    "aspect_ratio": "1:1",
+    "quality_level": "standard",
+    "consistency_level": "standard",
+    "unusual_aesthetics": "none",
+    "style_reference": "",
+    "character_reference": "",
+    "image_reference": ""
+  }
+}
