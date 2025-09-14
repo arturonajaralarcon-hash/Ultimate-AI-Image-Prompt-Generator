@@ -1,9 +1,9 @@
 {
   "geminiGemsPromptRecipes": {
     "usageNotes": [
-      [cite_start]"Feel free to be creative and add context and various details to the prompt. [cite: 2, 6]",
-      [cite_start]"At the end of the prompt, use any necessary parameters. [cite: 3, 7]",
-      [cite_start]"Not all categories must be used in every prompt. [cite: 4, 8]"
+      "cite_start": "Feel free to be creative and add context and various details to the prompt. [cite: 2, 6]",
+      "cite_start": "At the end of the prompt, use any necessary parameters. [cite: 3, 7]",
+      "cite_start" : "Not all categories must be used in every prompt. [cite: 4, 8]",
     ],
     "exteriorArchitecture": {
       "promptPrefix": "Architectural",
