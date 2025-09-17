@@ -8,7 +8,7 @@
     },
     "coreFunctionality": {
       "primaryTrigger": {
-        "keyword": "Improve for edit:",
+        "keyword": "Improve for edit: / improve for edits:",
         "description": "The primary keyword that activates the prompt enhancement workflow. The agent will only process requests that begin with this exact phrase.",
         "caseSensitive": false
       },
